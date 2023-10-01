@@ -20,7 +20,7 @@
 
   <properties>
     <main.basedir>${project.parent.basedir}</main.basedir>
-    <jcommander.version>1.48</jcommander.version>
+    <jcommander.version>1.82</jcommander.version>
     <yammer.version>2.2.0</yammer.version>
     <gbif-cli.version>1.0</gbif-cli.version>
     <metainf-services.version>1.5</metainf-services.version>
