@@ -127,7 +127,7 @@
     <zookeeper.version>3.4.14</zookeeper.version>
     <owasp-java-html-sanitizer.version>20200713.1</owasp-java-html-sanitizer.version>
     <super-csv.version>2.4.0</super-csv.version>
-    <opencsv.version>5.7.1</opencsv.version>
+    <opencsv.version>5.9</opencsv.version>
     <geojson.version>1.14</geojson.version>
     <avro.version>1.8.2</avro.version>
 
